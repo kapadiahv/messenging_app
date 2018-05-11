@@ -1,0 +1,16 @@
+{
+  "url":"http://localhost:4200/login",
+  "username":"test-user",
+  "password":"password",
+  "groupMembers":"Carson Wentz",
+  "groupName":"Philadelphia Eagles",
+  "channelName":"Cheesesteaks",
+  "channelMessage":"I like eating at Pats more than Genos",
+  "newUser": {
+    "username":"CarsonWentz",
+    "email":"carsonw@eagles.com",
+    "password":"password"
+  }
+
+
+}
