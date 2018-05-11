@@ -1,21 +1,16 @@
 # Testing Messenging App Using Protractor
 
 # Description
-These are protractor tests using the jasmine framework.
+These are protractor tests using the jasmine framework to test the UI functionality of my messaging app in an Automated fashoin.
 
 # Functionality
-login_spec.js
-This will have the log tests
-
-channel_spec.js
-This will have tests that create a channel as well as post a message to the channel chat
-
-createUser_spec.js
-Create a new user and login with a the newely created user
-
-group_spec.js
-Creates a group chat
-**Note, creating a group chat is crashing the node js server due to some headers not being handled properly by the application.
+The functionalities tested include:
+- Login to the application
+- Create  channel
+- Send a message
+- Validate message sent appears in the chat bubble
+- Create a New User
+- Login with newely created user
 
 # How to Run
 
